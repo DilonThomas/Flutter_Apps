@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040452828153",
+    "project_id": "fir-registration-app-c769c",
+    "storage_bucket": "fir-registration-app-c769c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040452828153:android:e9243f19d1aafcc3eb1b28",
+        "android_client_info": {
+          "package_name": "com.example.authentication_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATw8RUv1BLS3zwYkJb8nZbTRXLKBhPQyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
